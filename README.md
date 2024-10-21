@@ -7,16 +7,15 @@ With a diverse background in software engineering across multiple companies and 
 ## Technical Skills 🛠️
 * **Languages:** JavaScript, TypeScript
 * **Frameworks & Libraries:** React, Next.js, Vue.js, Nuxt.js, TailwindCSS
-* **State Management:** Redux, Zustand
-* **Build Tools:** Vite, Rollup, TurboRepo
-* **Testing:** Vitest
+* **State Management:** Redux, Zustand, Vuex
+* **Build Tools:** Vite, Rollup, TurboRepo, Lerna
+* **Testing:** Vitest, Jest
 * **Other:** PWA, WebSocket, Static Site Generation
 
 ## Professional Experience 💼
 * **Senior UI Engineer** at Dorik Inc. (Remote, Jan 2022 - Present)
   - Led development of a No-Code Website Builder
-  - Spearheaded CMS platform transition to static site architecture
-  - Implemented performance optimizations and improved developer experience
+  - Implemented performance optimizations and improved developer experience.
 
 * **Senior Frontend Engineer** at Makdos Bilişim (Istanbul, Turkey, Jan 2020 - Dec 2021)
   - Introduced React ecosystem (Next.js, Zustand, TailwindCSS)
