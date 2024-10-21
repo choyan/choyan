@@ -5,7 +5,6 @@
 With a diverse background in software engineering across multiple companies and countries, I bring a unique blend of technical expertise, leadership, and innovative problem-solving to the world of web development. My passion lies in crafting efficient, user-friendly interfaces and mentoring fellow developers to push the boundaries of what's possible in front-end technology.
 
 ## Technical Skills 🛠️
-
 * **Languages:** JavaScript, TypeScript
 * **Frameworks & Libraries:** React, Next.js, Vue.js, Nuxt.js, TailwindCSS
 * **State Management:** Redux, Zustand
@@ -14,7 +13,6 @@ With a diverse background in software engineering across multiple companies and 
 * **Other:** PWA, WebSocket, Static Site Generation
 
 ## Professional Experience 💼
-
 * **Senior UI Engineer** at Dorik Inc. (Remote, Jan 2022 - Present)
   - Led development of a No-Code Website Builder
   - Spearheaded CMS platform transition to static site architecture
