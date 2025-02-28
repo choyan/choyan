@@ -1,4 +1,4 @@
-👋 Hi, I'm Zahidul Hossain! I'm a Senior UI Engineer with a passion for creating intuitive, high-performance web applications. My expertise lies in front-end development, with a focus on React and its ecosystem.
+👋 Hi, I'm Zahidul Hossain! I'm a Software Engineer with a passion for creating intuitive, high-performance web applications. My expertise lies in front-end development, with a focus on React and its ecosystem.
 
 ## About Me
 
@@ -26,6 +26,5 @@ With a diverse background in software engineering across multiple companies and 
 ## Let's Connect!
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
 
-- 🐦 [Twitter](https://twitter.com/ch0yan)
 - 📫 [Email](mailto:zhchoyan@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/choyan)
